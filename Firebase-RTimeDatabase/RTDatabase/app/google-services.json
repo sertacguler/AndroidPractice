@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1027003951180",
+    "firebase_url": "https://androidstudioprojects-c80c5.firebaseio.com",
+    "project_id": "androidstudioprojects-c80c5",
+    "storage_bucket": "androidstudioprojects-c80c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027003951180:android:473472298fc59b46",
+        "android_client_info": {
+          "package_name": "com.example.mycroft.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027003951180-nd01ne16o4udgh30i9kfg19c0mpla4iv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mycroft.myapplication",
+            "certificate_hash": "be3d7095c6cad2a565d170aeea2d8c7d0bcd52ae"
+          }
+        },
+        {
+          "client_id": "1027003951180-9jngilhlgibsfgk2v3l4o9rs0cg8ck1f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIT1Zu5Cgkfz_ejs3ElHy-vxhIwrbNOyU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027003951180-9jngilhlgibsfgk2v3l4o9rs0cg8ck1f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
